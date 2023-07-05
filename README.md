@@ -1,4 +1,4 @@
-#React Calculator App
+# React Calculator App
 
 A simple calculator application built with React.js.
 
