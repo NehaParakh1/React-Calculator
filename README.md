@@ -15,4 +15,4 @@ The main features of this calculator app are:
 
 # Image of App
 
-![Screenshot]=(screenshot/Screenshot.png)
+![Screenshot](screenshot/Screenshot.png)
