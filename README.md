@@ -12,3 +12,7 @@ The main features of this calculator app are:
 
 -Perform basic arithmetic operations (+, -, *, /)
 -Display real-time input and result
+
+# Image of App
+
+![Screenshot]=(screenshot/Screenshot.png)
